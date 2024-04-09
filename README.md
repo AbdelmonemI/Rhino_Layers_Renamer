@@ -17,14 +17,6 @@ This Python script automates the process of renaming layers in a Rhino file with
 
 - Rhino 3D software with Python scripting enabled.
 
-## How to Contribute
-
-1. Fork this repository.
-2. Create a new branch (`git checkout -b feature/awesome-feature`).
-3. Commit your changes (`git commit -am 'Add awesome feature'`).
-4. Push to the branch (`git push origin feature/awesome-feature`).
-5. Create a new Pull Request.
-
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
