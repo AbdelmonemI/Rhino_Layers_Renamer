@@ -28,5 +28,5 @@ Feel free to use and modify this script to suit your workflow needs. If you have
 Happy designing!
 
 Support me
-
-Do you find Rhino Layers Renamer useful? [Buy me a coffe!]([URL](https://www.buymeacoffee.com/5JiowuZ))
+Do you find Rhino Layers Renamer useful?
+[Support me on Buy Me a Coffee](https://www.buymeacoffee.com/5JiowuZ)
